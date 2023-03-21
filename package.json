@@ -44,6 +44,7 @@
   },
   "dependencies": {
     "invariant": "^2.2.1",
+    "jetify": "^1.0.2",
     "valib": "^2.0.0"
   },
   "devDependencies": {
